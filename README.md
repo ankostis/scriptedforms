@@ -59,6 +59,9 @@ update with each key stroke:
   <img src="./images/quick-start.png">
 </p>
 
+Alternatively, start a standard jupyterlab server and go to the scripted forms 
+url. For the above example it would be http://jupyter.server.ip:port/scriptedforms/use/quick-start.md
+
 Now within `quick-start.md` edit the markdown file by changing
 
 ```markdown
